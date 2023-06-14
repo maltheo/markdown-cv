@@ -2,16 +2,16 @@
 layout: cv
 title: mt's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# mt
+<!-- Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+</div> -->
 
 
-## Currently
+<!-- ## Currently
 
 Standing on the shoulders of giants
 
@@ -22,12 +22,12 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 
 ## Education
 
-`1654-1660`
+<!-- `1654-1660`
 __The King's School, Grantham.__
 
 `June 1661 - now`
@@ -38,24 +38,24 @@ __Trinity College, Cambridge__
 `1667 - death`
 __Trinity College, Cambridge__
 
-- Fellow
+- Fellow -->
 
 
 
 ## Awards
 
-`2012`
+<!-- `2012`
 President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+Associate, *French Academy of Science*, Paris, France -->
 
 
 
-## Publications
+<!-- ## Publications -->
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!-- ### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -80,7 +80,7 @@ __Royal Mint__, London
 - Minted coins
 
 `1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Lucasian professor of Mathematics__, Cambridge University -->
 
 
 
